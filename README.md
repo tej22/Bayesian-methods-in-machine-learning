@@ -1,2 +1,2 @@
 # Bayesian-methods-in-machine-learning
-Coursera
+Advanced machine learning
